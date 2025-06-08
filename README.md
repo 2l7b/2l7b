@@ -1,11 +1,8 @@
 <html>
   <head>
     <style>
-p {
-  background-image: url('https://stock.adobe.com/in/images/black-monotone-grain-texture-glitter-sand-background/122852515');
-}
-</style>
-
+      p{text-align:center;}
+    </style>
   </head>
   <body>
     <p>hi</p>
