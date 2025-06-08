@@ -1,11 +1,10 @@
 <html>
   <head>
-    <style>
-      p{text-align:center;}
-    </style>
   </head>
   <body>
-    <p>hi</p>
+    <p align="center">
+        hi
+    </p>
   </body>
 </html>
 <!---
