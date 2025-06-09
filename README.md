@@ -1,13 +1,14 @@
-<html>
-  <head>
-  </head>
-  <body>
-    <p align="center">
-        hi
-    </p>
-  </body>
-</html>
-<!---
-2l7b/2l7b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm 2l7b 👋
+
+- he/him
+- 👀 I like cryptos, especially automatic trading bots
+- 🛠️ I enjoy hacking, C/C++ projects, and making websites
+- 🕹️ I add mods to web games and build browser extensions
+- 🤖 Interested in AI & ML
+
+## 📈 GitHub Stats
+
+- 2 followers · 15 following
+- 13 contributions in the last year
+
+> “hi”
